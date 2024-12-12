@@ -1525,7 +1525,11 @@ header .search .ikon{
     }
 
     header .search .input input{
-        width: 200px;
+        width: 300px;
+    }
+
+    header .search .ikon{
+        display: none;
     }
 
     .header_link{
